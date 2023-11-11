@@ -35,7 +35,7 @@ then run your code.
 
 4. submits the job to slurm via shell script
 
-Here is the [video tutorial](https://drive.google.com/file/d/11a7mzO46QTmzTR4lz_ioEXq8I8VPTs8v/view?usp=sharing) from Ramana outlining the same. Accompanying files for the [video tutorial](https://github.com/saikrn112/turing_cluster) are hosted here.
+Here is the [video tutorial](https://drive.google.com/file/d/11a7mzO46QTmzTR4lz_ioEXq8I8VPTs8v/view?usp=sharing) from Ramana outlining the same. Accompanying files for the video tutorial are hosted [here](https://github.com/pearwpi/turing-instructions).
 
 ### Related video tutorials:
 
