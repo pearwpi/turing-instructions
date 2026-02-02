@@ -35,7 +35,7 @@ then run your code.
 
 4. submits the job to slurm via shell script
 
-Here is the [video tutorial](https://drive.google.com/file/d/11a7mzO46QTmzTR4lz_ioEXq8I8VPTs8v/view?usp=sharing) from Ramana outlining the same. Accompanying files for the video tutorial are hosted [here](https://github.com/pearwpi/turing-instructions).
+Here is the [video tutorial](https://app.box.com/s/36j038b1g317kn11zggponvmd3d9sge9) from Ramana outlining the same. Accompanying files for the video tutorial are in this repository.
 
 ### Related video tutorials:
 
